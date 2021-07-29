@@ -1,0 +1,21 @@
+.grilla {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    border-style: solid;
+  }
+  
+  .grilla div {
+    width: 20px;
+    height: 20px;
+  }
+  
+  .vivora {
+    background-color: rgb(255, 6, 6);
+  }
+  
+  .objetivo {
+    background-color: rgb(124, 255, 1);
+    border-radius: 50%;
+  }
